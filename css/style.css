@@ -88,8 +88,8 @@ header .navbar ul li:last-child { margin-right: 0; }
 #home-slider h1.slider-text { font-size: 80px; margin: 15px 0; }
 #home-slider p { margin: 20px 0; width: 600px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;}
 #home-slider .slick-bg { padding: 100px 0 50px;width:100%; background-size: cover;background-position: center center; background-repeat: no-repeat; height: 100vh; position: relative; z-index: 1;}
-#home-slider .slick-bg.s-bg-1 { background-image: url(../images/images/AAAABcs7-Uf6QMCCDoKI1bL7Ja5a3UuclXCYiwTpV5HK9zX1qs6V0bQO4XJJlPtU6A3S2P2T6CoL5xh1YCumXTEfy1MuTnNf.jpg); }
-#home-slider .slick-bg.s-bg-2 { background-image: url(../images/images/AAAABfXfiohIHOuFk7fERKIOeckwiAjqZbTp1yQoyRC8qGiAIxiwvNbzSbG5qd_NxK8ang4z-2wr5PQmf6CCyIcdmmWf0gOL.jpg); }
+#home-slider .slick-bg.s-bg-1 { background-image: url(../images/images/slider111.jpg); }
+#home-slider .slick-bg.s-bg-2 { background-image: url(../images/images/22323.jpg); }
 #home-slider .slick-bg.s-bg-3 { background-image: url(../images/slider/slider3.jpg); }
 /* .trailor-video { position: absolute; bottom: 0; right: 0; z-index: 999;text-align: center; } */
 .iq-view-all {
